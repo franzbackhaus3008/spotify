@@ -12,7 +12,7 @@ import { useEffect, useState } from "react";
 
 // @ts-ignore
 import { useSound } from "use-sound";
-
+import { BiSearch } from "react-icons/bi";
 
 interface PlayerContentProps {
   song: Song;
